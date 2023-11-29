@@ -1,4 +1,4 @@
-package com.citron.cit;
+package com.citron.cit.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
