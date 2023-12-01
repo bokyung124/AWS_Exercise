@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7ceaf70-3adf-4b2a-a542-b1b73d0bab54" name="변경" comment="[add] buildspec.yml">
-      <change afterPath="$PROJECT_DIR$/appspec.yml" afterDir="false" />
+    <list default="true" id="a7ceaf70-3adf-4b2a-a542-b1b73d0bab54" name="변경" comment="[add] appspec.yml&#10;&#10;디렉토리 배포되는 위치 설정">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildspec.yml" beforeDir="false" afterPath="$PROJECT_DIR$/buildspec.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +81,8 @@
       <workItem from="1701230240208" duration="2043000" />
       <workItem from="1701240796064" duration="815000" />
       <workItem from="1701425225544" duration="550000" />
-      <workItem from="1701434645815" duration="1230000" />
+      <workItem from="1701434645815" duration="1252000" />
+      <workItem from="1701437522009" duration="14000" />
     </task>
     <task id="LOCAL-00001" summary="Spring Boot 구성">
       <created>1701258776165</created>
@@ -97,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701435063145</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[add] appspec.yml&#10;&#10;디렉토리 배포되는 위치 설정">
+      <created>1701436219682</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701436219682</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +114,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Spring Boot 구성" />
     <MESSAGE value="[add] buildspec.yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="[add] buildspec.yml" />
+    <MESSAGE value="[add] appspec.yml&#10;&#10;디렉토리 배포되는 위치 설정" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add] appspec.yml&#10;&#10;디렉토리 배포되는 위치 설정" />
   </component>
 </project>
