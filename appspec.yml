@@ -1,5 +1,10 @@
-version: 0.0
+version: 0.2
 os: linux
+phases:
+  build:
+    commands:
+      - chmod +x ./gradlew
+      - ./gradlew build
 files:
   - source: /
     destination: /home/ec2-user/build/
