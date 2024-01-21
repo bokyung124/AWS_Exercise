@@ -1,0 +1,9 @@
+version: 0.2
+os: linux
+phases:
+  build:
+    commands:
+      - ./gradlew build
+files:
+  - source: /
+    destination: /home/ec2-user/build/
